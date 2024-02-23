@@ -1,0 +1,440 @@
+[2023-01-13T03:52:43.643+0000] {processor.py:153} INFO - Started process (PID=44) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:52:43.650+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:52:43.652+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:52:43.651+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:52:43.687+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:52:44.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:52:44.334+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:52:44.334+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:52:44.379+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:52:44.379+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:52:44.454+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.817 seconds
+[2023-01-13T03:53:15.345+0000] {processor.py:153} INFO - Started process (PID=46) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:53:15.351+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:53:15.355+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:53:15.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:53:15.411+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:53:15.997+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:53:16.039+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:53:16.039+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:53:16.082+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:53:16.082+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:53:16.156+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.823 seconds
+[2023-01-13T03:57:53.745+0000] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:57:53.748+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:57:53.750+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:57:53.749+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:57:53.779+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:57:54.172+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:57:54.195+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:57:54.195+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:57:54.229+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:57:54.229+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:57:54.304+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.562 seconds
+[2023-01-13T03:58:24.392+0000] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:58:24.395+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:58:24.397+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:58:24.397+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:58:24.436+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:58:24.976+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:58:25.020+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:58:25.019+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:58:25.064+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:58:25.064+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:58:25.133+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.749 seconds
+[2023-01-13T03:58:55.270+0000] {processor.py:153} INFO - Started process (PID=49) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:58:55.274+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:58:55.276+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:58:55.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:58:55.323+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:58:55.723+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:58:55.760+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:58:55.760+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:58:55.802+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:58:55.802+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:58:55.873+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.609 seconds
+[2023-01-13T03:59:26.634+0000] {processor.py:153} INFO - Started process (PID=51) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:59:26.637+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:59:26.639+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:59:26.639+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:59:26.682+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:59:27.183+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:59:27.227+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:59:27.226+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:59:27.263+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:59:27.263+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:59:27.335+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.708 seconds
+[2023-01-13T03:59:57.980+0000] {processor.py:153} INFO - Started process (PID=53) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:59:57.983+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T03:59:57.986+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:59:57.986+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:59:58.030+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T03:59:58.546+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T03:59:58.589+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:59:58.588+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T03:59:58.627+0000] {logging_mixin.py:137} INFO - [2023-01-13T03:59:58.626+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T03:59:58.696+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.723 seconds
+[2023-01-13T04:00:29.411+0000] {processor.py:153} INFO - Started process (PID=55) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:00:29.470+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:00:29.473+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:00:29.473+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:00:29.526+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:00:30.114+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:00:30.152+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:00:30.152+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:00:30.187+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:00:30.187+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:00:30.257+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.855 seconds
+[2023-01-13T04:01:01.117+0000] {processor.py:153} INFO - Started process (PID=57) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:01:01.121+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:01:01.123+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:01:01.123+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:01:01.167+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:01:01.862+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:01:01.907+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:01:01.907+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:01:01.952+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:01:01.952+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:01:02.034+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.926 seconds
+[2023-01-13T04:01:32.477+0000] {processor.py:153} INFO - Started process (PID=59) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:01:32.480+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:01:32.482+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:01:32.481+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:01:32.512+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:01:32.860+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:01:32.896+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:01:32.895+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:01:32.936+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:01:32.936+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:01:33.023+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.549 seconds
+[2023-01-13T04:02:03.242+0000] {processor.py:153} INFO - Started process (PID=61) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:02:03.244+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:02:03.246+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:02:03.246+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:02:03.275+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:02:03.590+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:02:03.625+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:02:03.625+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:02:03.664+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:02:03.663+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:02:03.730+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.492 seconds
+[2023-01-13T04:02:34.074+0000] {processor.py:153} INFO - Started process (PID=63) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:02:34.077+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:02:34.107+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:02:34.107+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:02:34.143+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:02:34.465+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:02:34.501+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:02:34.500+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:02:34.537+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:02:34.537+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:02:34.603+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.533 seconds
+[2023-01-13T04:03:05.189+0000] {processor.py:153} INFO - Started process (PID=65) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:03:05.192+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:03:05.195+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:03:05.195+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:03:05.233+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:03:05.622+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:03:05.662+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:03:05.661+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:03:05.704+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:03:05.704+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:03:05.777+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.592 seconds
+[2023-01-13T04:03:36.657+0000] {processor.py:153} INFO - Started process (PID=67) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:03:36.660+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:03:36.663+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:03:36.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:03:36.697+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:03:37.056+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:03:37.098+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:03:37.098+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:03:37.136+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:03:37.136+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:03:37.209+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.562 seconds
+[2023-01-13T04:04:07.456+0000] {processor.py:153} INFO - Started process (PID=69) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:04:07.459+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:04:07.461+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:04:07.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:04:07.497+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:04:07.916+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:04:07.953+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:04:07.953+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:04:07.991+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:04:07.991+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:04:08.059+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.610 seconds
+[2023-01-13T04:04:38.337+0000] {processor.py:153} INFO - Started process (PID=71) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:04:38.339+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:04:38.341+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:04:38.341+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:04:38.376+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:04:38.752+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:04:38.819+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:04:38.819+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:04:38.869+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:04:38.869+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:04:38.956+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.624 seconds
+[2023-01-13T04:05:09.144+0000] {processor.py:153} INFO - Started process (PID=73) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:05:09.147+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:05:09.150+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:05:09.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:05:09.190+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:05:09.518+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:05:09.556+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:05:09.556+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:05:09.595+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:05:09.595+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:05:09.666+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.528 seconds
+[2023-01-13T04:05:40.033+0000] {processor.py:153} INFO - Started process (PID=75) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:05:40.036+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:05:40.037+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:05:40.037+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:05:40.071+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:05:40.423+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:05:40.461+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:05:40.461+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:05:40.503+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:05:40.503+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:05:40.578+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.549 seconds
+[2023-01-13T04:06:10.952+0000] {processor.py:153} INFO - Started process (PID=77) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:06:10.957+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:06:10.960+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:06:10.960+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:06:11.020+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:06:11.496+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:06:11.536+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:06:11.535+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:06:11.572+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:06:11.572+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:06:11.642+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.700 seconds
+[2023-01-13T04:06:41.864+0000] {processor.py:153} INFO - Started process (PID=79) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:06:41.867+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:06:41.868+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:06:41.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:06:41.898+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:06:42.219+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:06:42.255+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:06:42.254+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:06:42.295+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:06:42.295+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:06:42.360+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.500 seconds
+[2023-01-13T04:07:12.714+0000] {processor.py:153} INFO - Started process (PID=81) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:07:12.717+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:07:12.718+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:07:12.718+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:07:12.749+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:07:13.075+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:07:13.113+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:07:13.112+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:07:13.154+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:07:13.154+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:07:13.230+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.519 seconds
+[2023-01-13T04:07:43.527+0000] {processor.py:153} INFO - Started process (PID=83) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:07:43.530+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:07:43.532+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:07:43.532+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:07:43.565+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:07:43.904+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:07:43.941+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:07:43.941+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:07:43.977+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:07:43.976+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:07:44.096+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.573 seconds
+[2023-01-13T04:08:14.346+0000] {processor.py:153} INFO - Started process (PID=85) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:08:14.348+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:08:14.350+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:08:14.350+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:08:14.385+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:08:14.782+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:08:14.829+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:08:14.828+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:08:14.870+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:08:14.870+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:08:14.943+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.603 seconds
+[2023-01-13T04:08:45.254+0000] {processor.py:153} INFO - Started process (PID=87) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:08:45.257+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:08:45.259+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:08:45.259+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:08:45.290+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:08:45.615+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:08:45.652+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:08:45.652+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:08:45.688+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:08:45.688+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:08:45.756+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.506 seconds
+[2023-01-13T04:09:16.059+0000] {processor.py:153} INFO - Started process (PID=89) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:09:16.062+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:09:16.063+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:09:16.063+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:09:16.093+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:09:16.403+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:09:16.440+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:09:16.440+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:09:16.475+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:09:16.475+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:09:16.541+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.486 seconds
+[2023-01-13T04:09:46.761+0000] {processor.py:153} INFO - Started process (PID=91) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:09:46.763+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:09:46.765+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:09:46.764+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:09:46.800+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:09:47.360+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:09:47.403+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:09:47.403+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:09:47.443+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:09:47.443+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:09:47.516+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.759 seconds
+[2023-01-13T04:10:17.750+0000] {processor.py:153} INFO - Started process (PID=93) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:10:17.753+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:10:17.755+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:10:17.755+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:10:17.790+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:10:18.143+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:10:18.187+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:10:18.186+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:10:18.234+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:10:18.234+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:10:18.343+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.596 seconds
+[2023-01-13T04:10:48.664+0000] {processor.py:153} INFO - Started process (PID=95) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:10:48.668+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:10:48.671+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:10:48.671+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:10:48.732+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:10:49.475+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:10:49.533+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:10:49.533+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:10:49.606+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:10:49.606+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:10:49.690+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.037 seconds
+[2023-01-13T04:11:20.190+0000] {processor.py:153} INFO - Started process (PID=97) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:11:20.204+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:11:20.227+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:11:20.220+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:11:20.364+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:11:21.822+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:11:21.912+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:11:21.912+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:11:22.008+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:11:22.008+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:11:22.149+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.969 seconds
+[2023-01-13T04:11:54.934+0000] {processor.py:153} INFO - Started process (PID=99) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:11:55.065+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:11:55.075+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:11:55.074+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:11:56.872+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:12:00.169+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:12:00.277+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:12:00.277+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:12:00.387+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:12:00.386+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:12:00.782+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 6.234 seconds
+[2023-01-13T04:12:31.199+0000] {processor.py:153} INFO - Started process (PID=101) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:12:31.204+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:12:31.207+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:12:31.207+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:12:31.271+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:12:31.986+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:12:32.058+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:12:32.057+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:12:32.111+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:12:32.110+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:12:32.214+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.031 seconds
+[2023-01-13T04:13:02.738+0000] {processor.py:153} INFO - Started process (PID=103) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:13:02.742+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:13:02.745+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:13:02.745+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:13:02.798+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:13:03.445+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:13:03.506+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:13:03.506+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:13:03.551+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:13:03.551+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:13:03.638+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.914 seconds
+[2023-01-13T04:13:34.122+0000] {processor.py:153} INFO - Started process (PID=105) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:13:34.128+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:13:34.130+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:13:34.130+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:13:34.223+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:13:34.816+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:13:34.895+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:13:34.894+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:13:35.023+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:13:35.022+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:13:35.245+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.134 seconds
+[2023-01-13T04:14:05.525+0000] {processor.py:153} INFO - Started process (PID=107) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:14:05.532+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:14:05.538+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:14:05.538+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:14:05.937+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:14:07.728+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:14:07.918+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:14:07.917+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:14:08.101+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:14:08.101+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:14:08.463+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 2.953 seconds
+[2023-01-13T04:14:39.359+0000] {processor.py:153} INFO - Started process (PID=109) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:14:39.361+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T04:14:39.363+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:14:39.363+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:14:39.394+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T04:14:39.744+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T04:14:39.786+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:14:39.786+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T04:14:39.825+0000] {logging_mixin.py:137} INFO - [2023-01-13T04:14:39.825+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T04:14:39.901+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.546 seconds
+[2023-01-13T22:39:08.262+0000] {processor.py:153} INFO - Started process (PID=44) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:39:08.265+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:39:08.266+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:39:08.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:39:08.300+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:39:08.745+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:39:08.781+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:39:08.781+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:39:08.822+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:39:08.822+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:39:08.896+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.637 seconds
+[2023-01-13T22:39:39.216+0000] {processor.py:153} INFO - Started process (PID=46) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:39:39.221+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:39:39.227+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:39:39.225+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:39:39.350+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:39:40.180+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:39:40.224+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:39:40.224+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:39:40.265+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:39:40.265+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:39:40.358+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.150 seconds
+[2023-01-13T22:40:11.413+0000] {processor.py:153} INFO - Started process (PID=48) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:40:11.417+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:40:11.419+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:40:11.419+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:40:11.471+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:40:12.027+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:40:12.079+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:40:12.079+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:40:12.116+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:40:12.115+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:40:12.192+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.784 seconds
+[2023-01-13T22:40:42.727+0000] {processor.py:153} INFO - Started process (PID=50) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:40:42.729+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:40:42.731+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:40:42.731+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:40:42.763+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:40:43.153+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:40:43.204+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:40:43.203+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:40:43.255+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:40:43.255+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:40:43.335+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.613 seconds
+[2023-01-13T22:41:14.190+0000] {processor.py:153} INFO - Started process (PID=52) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:41:14.194+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:41:14.196+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:41:14.196+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:41:14.227+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:41:14.697+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:41:14.776+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:41:14.775+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:41:14.849+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:41:14.848+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:41:14.951+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.765 seconds
+[2023-01-13T22:41:45.321+0000] {processor.py:153} INFO - Started process (PID=54) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:41:45.324+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:41:45.326+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:41:45.326+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:41:45.360+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:41:45.740+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:41:45.776+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:41:45.776+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:41:45.817+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:41:45.817+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:41:45.893+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.576 seconds
+[2023-01-13T22:42:16.351+0000] {processor.py:153} INFO - Started process (PID=56) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:42:16.354+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:42:16.356+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:42:16.356+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:42:16.386+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:42:16.794+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:42:16.875+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:42:16.874+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:42:16.929+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:42:16.928+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:42:17.038+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.691 seconds
+[2023-01-13T22:42:48.241+0000] {processor.py:153} INFO - Started process (PID=58) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:42:48.250+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:42:48.257+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:42:48.256+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:42:48.338+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:42:49.061+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:42:49.105+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:42:49.105+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:42:49.145+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:42:49.145+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:42:49.229+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.003 seconds
+[2023-01-13T22:43:19.567+0000] {processor.py:153} INFO - Started process (PID=60) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:43:19.570+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:43:19.573+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:43:19.573+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:43:19.620+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:43:20.180+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:43:20.226+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:43:20.226+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:43:20.271+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:43:20.271+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:43:20.381+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.818 seconds
+[2023-01-13T22:43:51.402+0000] {processor.py:153} INFO - Started process (PID=62) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:43:51.404+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:43:51.406+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:43:51.406+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:43:51.442+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:43:51.979+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:43:52.336+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:43:52.326+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:43:52.498+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:43:52.496+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:43:52.695+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.297 seconds
+[2023-01-13T22:44:23.647+0000] {processor.py:153} INFO - Started process (PID=64) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:44:23.653+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:44:23.658+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:44:23.658+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:44:23.720+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:44:24.504+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:44:24.572+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:44:24.572+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:44:24.638+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:44:24.638+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:44:24.782+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.148 seconds
+[2023-01-13T22:44:55.344+0000] {processor.py:153} INFO - Started process (PID=66) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:44:55.353+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:44:55.356+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:44:55.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:44:55.626+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:44:56.417+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:44:56.483+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:44:56.483+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:44:56.563+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:44:56.562+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:44:56.711+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.373 seconds
+[2023-01-13T22:45:27.058+0000] {processor.py:153} INFO - Started process (PID=68) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:45:27.062+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:45:27.065+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:45:27.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:45:27.103+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:45:27.499+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:45:27.542+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:45:27.541+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:45:27.589+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:45:27.589+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:45:27.671+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.617 seconds
+[2023-01-13T22:45:58.083+0000] {processor.py:153} INFO - Started process (PID=70) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:45:58.088+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:45:58.089+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:45:58.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:45:58.130+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:45:58.480+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:45:58.520+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:45:58.519+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:45:58.557+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:45:58.557+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:45:58.632+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.553 seconds
+[2023-01-13T22:46:28.901+0000] {processor.py:153} INFO - Started process (PID=72) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:46:28.904+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:46:28.906+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:46:28.906+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:46:28.940+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:46:29.304+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:46:29.340+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:46:29.340+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:46:29.380+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:46:29.380+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:46:29.455+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.558 seconds
+[2023-01-13T22:50:12.871+0000] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:50:12.873+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:50:12.875+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:50:12.875+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:50:12.906+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:50:13.487+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:50:13.536+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:50:13.535+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:50:13.579+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:50:13.579+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:50:13.658+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.791 seconds
+[2023-01-13T22:50:43.852+0000] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:50:43.859+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:50:43.864+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:50:43.864+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:50:43.964+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:50:44.692+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:50:44.734+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:50:44.734+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:50:44.772+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:50:44.772+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:50:44.849+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 1.008 seconds
+[2023-01-13T22:51:15.052+0000] {processor.py:153} INFO - Started process (PID=49) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:51:15.055+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:51:15.057+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:51:15.057+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:51:15.092+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:51:15.577+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:51:15.615+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:51:15.614+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:51:15.654+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:51:15.653+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:51:15.731+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.684 seconds
+[2023-01-13T22:51:46.435+0000] {processor.py:153} INFO - Started process (PID=51) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:51:46.438+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:51:46.440+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:51:46.440+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:51:46.478+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:51:47.002+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:51:47.047+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:51:47.047+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:51:47.085+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:51:47.085+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:51:47.164+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.733 seconds
+[2023-01-13T22:52:17.790+0000] {processor.py:153} INFO - Started process (PID=53) to work on /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:52:17.794+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/ETLexampleF22.py for tasks to queue
+[2023-01-13T22:52:17.795+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:52:17.795+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:52:17.830+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.7/site-packages/airflow/providers/postgres/hooks/postgres.py:30 RemovedInAirflow3Warning: This module is deprecated. Please use `airflow.providers.common.sql.hooks.sql`.
+[2023-01-13T22:52:18.306+0000] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /opt/airflow/dags/ETLexampleF22.py
+[2023-01-13T22:52:18.343+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:52:18.343+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-13T22:52:18.382+0000] {logging_mixin.py:137} INFO - [2023-01-13T22:52:18.382+0000] {dag.py:3427} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-01-13T22:52:18.463+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/ETLexampleF22.py took 0.677 seconds

@@ -1,0 +1,10 @@
+crime_type_id,crime_type_name
+0,Other Theft
+1,Break and Enter Residential/Other
+2,Mischief
+3,Break and Enter Commercial
+4,Theft from Vehicle
+5,Vehicle Collision or Pedestrian Struck (with Injury)
+6,Vehicle Collision or Pedestrian Struck (with Fatality)
+7,Theft of Vehicle
+8,Theft of Bicycle
