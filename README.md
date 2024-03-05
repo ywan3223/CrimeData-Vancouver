@@ -37,5 +37,7 @@ The project utilizes Vancouver Crime Data for data analysis, employing **Airflow
 ## Materialize Cubes
 
 ## Visualization
-
-## 
+<img src="/pic/v1.png" width = "530" height = "230" alt="cmo" />  
+<img src="/pic/v2.png" width = "500" height = "250" alt="cmo" />  
+<img src="/pic/v3.png" width = "400" height = "250" alt="cmo" />  
+<img src="/pic/v4.png" width = "400" height = "250" alt="cmo" />  
